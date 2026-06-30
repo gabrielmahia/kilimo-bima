@@ -1,6 +1,6 @@
 # 🌾 kilimo-bima — Parametric Crop Insurance Calculator
 
-**First AI-powered parametric crop insurance calculator for Kenya smallholder farmers.**
+AI-powered parametric crop insurance calculator for Kenya smallholder farmers — combines NDMA drought data and ACRE methodology to price weather risk at the individual farm level.
 
 ## The Structural Problem
 
